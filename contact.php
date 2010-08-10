@@ -1,4 +1,4 @@
-<?php $section = Array( 3 ); ?>
+<?php $section = Array( 4 ); ?>
 <?php require "_htmlBegin.php"; ?>
 
 <?php
@@ -22,7 +22,7 @@ else { $success = ""; }
 ?>
 
 <h3>Contact Me</h3>
-<p>In my attempt to reduce the amount of SPAM I receive in the future I am providing this contact form in lieu of my email address as a means of getting information to me.</p>
+<p>Please fill out the contact information and I will contact you about your request.  Thank you.</p>
 
 <?php
 

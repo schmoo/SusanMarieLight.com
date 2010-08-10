@@ -22,17 +22,10 @@ function update() {
 siteRoot = /^http:\/\/(?:www.)?susanmarielight.com/;
 window.onload = function() {
 	links = _( "a" );
-	var testing = /local/.test( document.location );
+	var testing = /sml/.test( document.location );
 	for( var c = 0; c < links.length; c++ ) {
 		node = links[c];
 		node.onclick = function() { if( this.blur ) { this.blur(); } }
 		if( !siteRoot.test( node.href ) && !testing ) { node.target = "_blank"; }
-	}
-	
-	if( document.forms.regexTester ) {
-		document.forms.regexTester.src.onkeyup = update;
-		document.forms.regexTester.regex.onkeyup = update;
-		document.forms.regexTester.sensitive.onclick = update;
-		document.forms.regexTester.getAll.onclick = update;
 	}
 }

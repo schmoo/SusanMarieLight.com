@@ -10,16 +10,10 @@ $siteMenu = Array(
 	 "about"
 	,"summary"
 	,"resume"
+	,"portfolio"
 	,"contact"
 );
 
-$personalMenu = Array(
-	 "links"
-	,"regex"
-	,"tagger"
-	,"names"
-	,"todo"
-);
 
 
 ?>

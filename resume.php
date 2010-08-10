@@ -2,21 +2,39 @@
 <?php require "_htmlBegin.php"; ?>
 
 
-<h2>Career Objective</h2>
+<h2>Career Summary</h2>
 <div class="resElement">
-	<p class="plain">Secure a technology leadership position within an organization utilizing my creative and innovative leadership skills along with executing budget conscious managerial skills in support of the company's progress and success.</p>
+	<p class="plain">Resourceful, creative and effective action-oriented leader, current with social media trends and strategies.  Excellent writing and communication skills. Background in design, graphics, web services and client interface strategies that can broaden a company’s web reach, into the organization or to customers. Successful at building and launching web sites, web applications, creative marketing materials, displays and presentations.  Budget conscious. Entrepreneurial. Excellent with customer service and support.  International sourcing expertise.</p>
 </div>
 
 <h2>Experience Detail</h2>
 <div class="resElement">
-	<h3>General Motors Corporation
+	<h3><strong>Bright Light Web Solutions, Inc.</strong>
+		<span>Waterford, MI</span></h3>
+</div>
+<div class="resElement">
+	<div class="positionHeader">
+		<p><b>Owner</b>
+			<span>June 2009 - Present</span><br />
+		</p>
+	</div>
+	<p class="indent">Provide creative consulting, design and project coordination services for small to medium size companies.  Write the project requirements, coordinate the resources and manage the follow-up. Create user interface designs, review and test sites to assure all business requirements are met.</p>
+	<ul>
+		<li>Generated seven new customers in first year</li>
+		<li>Created new identies; logos, brochures, business cards</li>
+		<li>Re-designed, coordinated and developed new web site</li>
+		<li>Provided graphics support, creating labels and a t-shirt design</li>
+		<li>Designed and developed a machine interface</li>
+	</ul>
+    
+    <h3>General Motors Corporation</h3>
 		<span>Renaissance Building, Detroit, MI</span></h3>
 </div>
 
 <div class="resElement">
 	<div class="positionHeader">
-		<p><b>Operations Manager - Graphics and Translations</b>
-			<span>2009 - April 2009</span><br />
+		<p><b>Graphics and Translations Manager</b>
+			<span>2008 - 2009</span><br />
 			<span class="left">Global Communications</span>
 			<span>Communications Technology Group</span>
 		</p>
